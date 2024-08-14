@@ -1,51 +1,22 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Coletando e Armazenando Dados de Processos Industriais 👨‍🏭
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Este e-book de 5 páginas explora o impacto revolucionário das IAs Generativas no nosso dia a dia e como elas moldarão o futuro.
+Esta breve apresentação descreve a rapidamente a importante relação entre processo industriais e os dados produzido por eles, além de discorrer sobre a importância e como armazená-los utilizando a linguagem Python. 
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+- IA Generativa **[Gamma](https://gamma.app/)** utilizada para criação do conteúdo e estilização da apresentação.
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+
+Para criar a apresentação e sua estilização, foi utilizado o **[Gamma](https://gamma.app/)** com um prompt com detalhes e diretrizes para a criação do conteúdo da apresentação. Esses detalhes foram imprescindíveis para a geração precisa dos textos dos slides.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+O resultado obtido com esta primeira versão da apresentação foi satisfatório, tanto em termos de conteúdo básico, como elementos gráficos. Nesta versão, nenhuma correção ou adequação de escrita foi realizada na apresentação, justamente para verificar a capacidade da IA Generativa em criar o conteúdo direcionado pelo prompt.
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+[PDF DA APRESENTAÇÃO](docs/Coletando-e-Armazenando-Dados-de-Processos-Industriais.pdf)
 
-### Exemplos e Insigths
+[LINK PARA APRESENTAÇÃO](https://gamma.app/embed/4mhp71xk3rrqatt)
 
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+## 💭 Reflexão
+A utilização de IAs pode acelerar tanto a criação de conteúdo como auxiliar no apredizado dos indivíduos. Criar uma apresentação com o **[Gamma](https://gamma.app/)** foi um aprendizado interessante sobre a capacidade da IA em auxiliar em tarefas cotidianas.
